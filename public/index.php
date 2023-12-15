@@ -165,7 +165,7 @@
   <!-- third section -->
 
   <section class="bg-white">
-    <div class=" flex flex-col justify-center items-center container w-11/12 mx-auto "> py-0 sm:py-52 md:py-52 lg:py-6
+    <div class=" flex flex-col justify-center items-center container w-11/12 mx-auto ">
       <div class="flex justify-between w-full">
         <span>SERVICES</span>
         <a href="#"><span>SEE ALL SERVICES <i class="fa-solid fa-arrow-right-long fa-lg" style="color: #000000;"></i></span></a>
