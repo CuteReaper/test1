@@ -252,7 +252,7 @@
     </div>
   </section>
 
-  <section>
+  <section class="bg-white">
     <div class="flex flex-col justify-center items-center w-11/12 mx-auto py-6">
     <div class="flex justify-between w-full">
         <span>OUR BLOG</span>
