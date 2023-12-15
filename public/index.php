@@ -19,7 +19,7 @@
 
   <!-- header -->
 
-  <section  class="lg:fixed bg-white w-screen mx-auto">
+  <section  class="lg:fixed bg-white w-screen mx-auto ">
 
     <!-- header logo -->
 
@@ -51,7 +51,7 @@
 
   <!-- hero secton -->
 
-  <section>
+  <section class="h-screen">
     <img class="p-2 lg:hidden rounded-3xl drop-shadow-3xl" src="./src//images/hero.jpg" alt="">
     <div class="flex items-center lg:h-[calc(100vh-52px)] mx-auto pt-5">
       <div class="grid grid-rows-4 grid-cols-10 gap-y-5">
@@ -180,7 +180,7 @@
         <div class=" col-start-2 col-span-10 hover:animate-pulse">DEVELOPMENT</div>
         <div class=" col-start-1 col-span-11 hover:animate-pulse">MOTION DESIGN</div>
       </div>
-
+      git add node_modules.gitignore -f
       <hr class=" my-3 pt-1 bg-black w-2/3" style="font-family: 'Climate Crisis', sans-serif;font-family: 'Inter', sans-serif;">
       
       <div class="flex flex-col lg:flex-row justify-between w-2/3 items-center">
