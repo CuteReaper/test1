@@ -13,7 +13,7 @@
 
   <!-- header -->
 
-  <section  class="fixed bg-white w-screen mx-auto my-0">
+  <section  class="fixed bg-white w-screen mx-auto my-0 h-screen">
 
     <!-- header logo -->
 
